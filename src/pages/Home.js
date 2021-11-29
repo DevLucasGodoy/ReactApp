@@ -2,7 +2,7 @@ function Home(){
   return(
     <div>
     <h1>Home</h1>
-    <p>Conreúdo da Página</p>
+    <p>Conteúdo da Página</p>
     </div>
   );
 }
